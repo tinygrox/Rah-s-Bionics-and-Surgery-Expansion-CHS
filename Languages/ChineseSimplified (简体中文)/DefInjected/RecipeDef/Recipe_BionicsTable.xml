@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Craft bionic arm -->
+  <MakeBionicArm.label>TODO</MakeBionicArm.label>
+  <!-- EN: Crafts a bionic arm from plasteel and components. -->
+  <MakeBionicArm.description>TODO</MakeBionicArm.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicArm.jobString>TODO</MakeBionicArm.jobString>
+  
+  <!-- EN: Craft bionic ear -->
+  <MakeBionicEar.label>TODO</MakeBionicEar.label>
+  <!-- EN: Crafts a bionic ear from plasteel. -->
+  <MakeBionicEar.description>TODO</MakeBionicEar.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicEar.jobString>TODO</MakeBionicEar.jobString>
+  
+  <!-- EN: Craft bionic eye -->
+  <MakeBionicEye.label>TODO</MakeBionicEye.label>
+  <!-- EN: Crafts a bionic eye from plasteel and devilstrand. -->
+  <MakeBionicEye.description>TODO</MakeBionicEye.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicEye.jobString>TODO</MakeBionicEye.jobString>
+  
+  <!-- EN: Craft bionic foot -->
+  <MakeBionicFoot.label>TODO</MakeBionicFoot.label>
+  <!-- EN: Crafts a bionic foot from plasteel and components. -->
+  <MakeBionicFoot.description>TODO</MakeBionicFoot.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicFoot.jobString>TODO</MakeBionicFoot.jobString>
+  
+  <!-- EN: Craft bionic hand -->
+  <MakeBionicHand.label>TODO</MakeBionicHand.label>
+  <!-- EN: Crafts a bionic hand from plasteel and components. -->
+  <MakeBionicHand.description>TODO</MakeBionicHand.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicHand.jobString>TODO</MakeBionicHand.jobString>
+  
+  <!-- EN: Craft bionic jaw -->
+  <MakeBionicJaw.label>TODO</MakeBionicJaw.label>
+  <!-- EN: Crafts a bionic jaw from plasteel. -->
+  <MakeBionicJaw.description>TODO</MakeBionicJaw.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicJaw.jobString>TODO</MakeBionicJaw.jobString>
+  
+  <!-- EN: Craft bionic leg -->
+  <MakeBionicLeg.label>TODO</MakeBionicLeg.label>
+  <!-- EN: Crafts a bionic leg from plasteel and components. -->
+  <MakeBionicLeg.description>TODO</MakeBionicLeg.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicLeg.jobString>TODO</MakeBionicLeg.jobString>
+  
+  <!-- EN: Craft bionic spine -->
+  <MakeBionicSpine.label>TODO</MakeBionicSpine.label>
+  <!-- EN: Crafts a bionic spine from steel and plasteel. -->
+  <MakeBionicSpine.description>TODO</MakeBionicSpine.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicSpine.jobString>TODO</MakeBionicSpine.jobString>
+  
+  <!-- EN: Craft bionic tongue -->
+  <MakeBionicTongue.label>TODO</MakeBionicTongue.label>
+  <!-- EN: Crafts a bionic tongue from plasteel. -->
+  <MakeBionicTongue.description>TODO</MakeBionicTongue.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeBionicTongue.jobString>TODO</MakeBionicTongue.jobString>
+  
+  <!-- EN: craft power arm -->
+  <MakePowerArm.label>TODO</MakePowerArm.label>
+  <!-- EN: Attaching a power claw to a bionic arm is not as easy as it sounds, but damn is it awesome! Lethal and effective in combat.\n\nDo not install on an unstable subject, as this might cause unwanted death and destruction. -->
+  <MakePowerArm.description>TODO</MakePowerArm.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakePowerArm.jobString>TODO</MakePowerArm.jobString>
+  
+</LanguageData>

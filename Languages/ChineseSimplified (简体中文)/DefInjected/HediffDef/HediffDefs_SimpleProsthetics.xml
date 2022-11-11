@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial femur -->
+  <ArtificialFemur.label>TODO</ArtificialFemur.label>
+  <!-- EN: An installed artificial femur -->
+  <ArtificialFemur.description>TODO</ArtificialFemur.description>
+  <!-- EN: an artificial femur -->
+  <ArtificialFemur.labelNoun>TODO</ArtificialFemur.labelNoun>
+  
+  <!-- EN: artificial humerus -->
+  <ArtificialHumerus.label>TODO</ArtificialHumerus.label>
+  <!-- EN: An installed artificial humerus -->
+  <ArtificialHumerus.description>TODO</ArtificialHumerus.description>
+  <!-- EN: an artificial humerus -->
+  <ArtificialHumerus.labelNoun>TODO</ArtificialHumerus.labelNoun>
+  
+  <!-- EN: artificial nose -->
+  <ArtificialNose.label>TODO</ArtificialNose.label>
+  <!-- EN: An installed artifical nose -->
+  <ArtificialNose.description>TODO</ArtificialNose.description>
+  <!-- EN: an artificial nose -->
+  <ArtificialNose.labelNoun>TODO</ArtificialNose.labelNoun>
+  
+  <!-- EN: artificial radius -->
+  <ArtificialRadius.label>TODO</ArtificialRadius.label>
+  <!-- EN: An installed artificial radius -->
+  <ArtificialRadius.description>TODO</ArtificialRadius.description>
+  <!-- EN: an artificial radius -->
+  <ArtificialRadius.labelNoun>TODO</ArtificialRadius.labelNoun>
+  
+  <!-- EN: artificial tibia -->
+  <ArtificialTibia.label>TODO</ArtificialTibia.label>
+  <!-- EN: An installed artificial tibia -->
+  <ArtificialTibia.description>TODO</ArtificialTibia.description>
+  <!-- EN: an artificial tibia -->
+  <ArtificialTibia.labelNoun>TODO</ArtificialTibia.labelNoun>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant -->
+  <CochlearImplant.description>TODO</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>TODO</CochlearImplant.labelNoun>
+  
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticArm.label>TODO</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm -->
+  <SimpleProstheticArm.description>TODO</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a simple prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>TODO</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: simple prosthetic foot -->
+  <SimpleProstheticFoot.label>TODO</SimpleProstheticFoot.label>
+  <!-- EN: An installed prosthetic foot -->
+  <SimpleProstheticFoot.description>TODO</SimpleProstheticFoot.description>
+  <!-- EN: a simple prosthetic foot -->
+  <SimpleProstheticFoot.labelNoun>TODO</SimpleProstheticFoot.labelNoun>
+  
+  <!-- EN: simple prosthetic hand -->
+  <SimpleProstheticHand.label>TODO</SimpleProstheticHand.label>
+  <!-- EN: An installed prosthetic hand -->
+  <SimpleProstheticHand.description>TODO</SimpleProstheticHand.description>
+  <!-- EN: fist -->
+  <SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</SimpleProstheticHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a simple prosthetic hand -->
+  <SimpleProstheticHand.labelNoun>TODO</SimpleProstheticHand.labelNoun>
+  
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticLeg.label>TODO</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg -->
+  <SimpleProstheticLeg.description>TODO</SimpleProstheticLeg.description>
+  <!-- EN: a simple prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>TODO</SimpleProstheticLeg.labelNoun>
+  
+  <!-- EN: spinal fusion -->
+  <SpinalFusion.label>TODO</SpinalFusion.label>
+  <!-- EN: A fused spine -->
+  <SpinalFusion.description>TODO</SpinalFusion.description>
+  <!-- EN: a fused spine -->
+  <SpinalFusion.labelNoun>TODO</SpinalFusion.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>TODO</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. -->
+  <WoodenFoot.description>TODO</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>TODO</WoodenFoot.labelNoun>
+  
+</LanguageData>

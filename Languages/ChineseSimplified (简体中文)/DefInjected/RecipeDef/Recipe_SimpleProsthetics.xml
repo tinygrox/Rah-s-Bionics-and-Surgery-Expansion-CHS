@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install artificial nose -->
+  <InstallArtificialNose.label>TODO</InstallArtificialNose.label>
+  <!-- EN: Installs artificial nose. -->
+  <InstallArtificialNose.description>TODO</InstallArtificialNose.description>
+  <!-- EN: Installing artificial nose. -->
+  <InstallArtificialNose.jobString>TODO</InstallArtificialNose.jobString>
+  
+  <!-- EN: install simple prosthetic arm -->
+  <InstallSimpleProstheticArm.label>TODO</InstallSimpleProstheticArm.label>
+  <!-- EN: Installs simple prosthetic arm. -->
+  <InstallSimpleProstheticArm.description>TODO</InstallSimpleProstheticArm.description>
+  <!-- EN: Installing simple prosthetic arm. -->
+  <InstallSimpleProstheticArm.jobString>TODO</InstallSimpleProstheticArm.jobString>
+  
+  <!-- EN: install simple prosthetic foot -->
+  <InstallSimpleProstheticFoot.label>TODO</InstallSimpleProstheticFoot.label>
+  <!-- EN: Installs a simple prosthetic foot. -->
+  <InstallSimpleProstheticFoot.description>TODO</InstallSimpleProstheticFoot.description>
+  <!-- EN: Installing simple prosthetic foot. -->
+  <InstallSimpleProstheticFoot.jobString>TODO</InstallSimpleProstheticFoot.jobString>
+  
+  <!-- EN: install simple prosthetic hand -->
+  <InstallSimpleProstheticHand.label>TODO</InstallSimpleProstheticHand.label>
+  <!-- EN: Installs a simple prosthetic hand. -->
+  <InstallSimpleProstheticHand.description>TODO</InstallSimpleProstheticHand.description>
+  <!-- EN: Installing simple prosthetic hand. -->
+  <InstallSimpleProstheticHand.jobString>TODO</InstallSimpleProstheticHand.jobString>
+  
+  <!-- EN: install simple prosthetic leg -->
+  <InstallSimpleProstheticLeg.label>TODO</InstallSimpleProstheticLeg.label>
+  <!-- EN: Installs simple prosthetic leg. -->
+  <InstallSimpleProstheticLeg.description>TODO</InstallSimpleProstheticLeg.description>
+  <!-- EN: Installing simple prosthetic leg. -->
+  <InstallSimpleProstheticLeg.jobString>TODO</InstallSimpleProstheticLeg.jobString>
+  
+</LanguageData>

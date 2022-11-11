@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure bite -->
+  <CureInjuryBite.label>TODO</CureInjuryBite.label>
+  <!-- EN: Cure bite. -->
+  <CureInjuryBite.description>TODO</CureInjuryBite.description>
+  <!-- EN: Curing bite. -->
+  <CureInjuryBite.jobString>TODO</CureInjuryBite.jobString>
+  
+  <!-- EN: cure bruise -->
+  <CureInjuryBruise.label>TODO</CureInjuryBruise.label>
+  <!-- EN: Cure bruise. -->
+  <CureInjuryBruise.description>TODO</CureInjuryBruise.description>
+  <!-- EN: Curing bruise. -->
+  <CureInjuryBruise.jobString>TODO</CureInjuryBruise.jobString>
+  
+  <!-- EN: cure burn -->
+  <CureInjuryBurn.label>TODO</CureInjuryBurn.label>
+  <!-- EN: Cure burn. -->
+  <CureInjuryBurn.description>TODO</CureInjuryBurn.description>
+  <!-- EN: Curing burn. -->
+  <CureInjuryBurn.jobString>TODO</CureInjuryBurn.jobString>
+  
+  <!-- EN: cure crack -->
+  <CureInjuryCrack.label>TODO</CureInjuryCrack.label>
+  <!-- EN: Cure crack. -->
+  <CureInjuryCrack.description>TODO</CureInjuryCrack.description>
+  <!-- EN: Curing crack. -->
+  <CureInjuryCrack.jobString>TODO</CureInjuryCrack.jobString>
+  
+  <!-- EN: cure crush -->
+  <CureInjuryCrush.label>TODO</CureInjuryCrush.label>
+  <!-- EN: Cure crush. -->
+  <CureInjuryCrush.description>TODO</CureInjuryCrush.description>
+  <!-- EN: Curing crush. -->
+  <CureInjuryCrush.jobString>TODO</CureInjuryCrush.jobString>
+  
+  <!-- EN: cure cut -->
+  <CureInjuryCut.label>TODO</CureInjuryCut.label>
+  <!-- EN: Cure cut. -->
+  <CureInjuryCut.description>TODO</CureInjuryCut.description>
+  <!-- EN: Curing cut. -->
+  <CureInjuryCut.jobString>TODO</CureInjuryCut.jobString>
+  
+  <!-- EN: cure frostbite -->
+  <CureInjuryFrostbite.label>TODO</CureInjuryFrostbite.label>
+  <!-- EN: Cure frostbite. -->
+  <CureInjuryFrostbite.description>TODO</CureInjuryFrostbite.description>
+  <!-- EN: Curing frostbite. -->
+  <CureInjuryFrostbite.jobString>TODO</CureInjuryFrostbite.jobString>
+  <!-- EN: {0} has successfully treated {1}'s frostbite. -->
+  <CureInjuryFrostbite.successfullyRemovedHediffMessage>TODO</CureInjuryFrostbite.successfullyRemovedHediffMessage>
+  
+  <!-- EN: cure gunshot -->
+  <CureInjuryGunshot.label>TODO</CureInjuryGunshot.label>
+  <!-- EN: Cure gunshot. -->
+  <CureInjuryGunshot.description>TODO</CureInjuryGunshot.description>
+  <!-- EN: Curing gunshot. -->
+  <CureInjuryGunshot.jobString>TODO</CureInjuryGunshot.jobString>
+  
+  <!-- EN: cure scratch -->
+  <CureInjuryScratch.label>TODO</CureInjuryScratch.label>
+  <!-- EN: Cure scratch. -->
+  <CureInjuryScratch.description>TODO</CureInjuryScratch.description>
+  <!-- EN: Curing scratch. -->
+  <CureInjuryScratch.jobString>TODO</CureInjuryScratch.jobString>
+  
+  <!-- EN: cure shredded -->
+  <CureInjuryShredded.label>TODO</CureInjuryShredded.label>
+  <!-- EN: Cure shredded. -->
+  <CureInjuryShredded.description>TODO</CureInjuryShredded.description>
+  <!-- EN: Curing shredded. -->
+  <CureInjuryShredded.jobString>TODO</CureInjuryShredded.jobString>
+  
+  <!-- EN: cure stab -->
+  <CureInjuryStab.label>TODO</CureInjuryStab.label>
+  <!-- EN: Cure stab. -->
+  <CureInjuryStab.description>TODO</CureInjuryStab.description>
+  <!-- EN: Curing stab. -->
+  <CureInjuryStab.jobString>TODO</CureInjuryStab.jobString>
+  
+  <!-- EN: cure surgical cut -->
+  <CureInjurySurgicalCut.label>TODO</CureInjurySurgicalCut.label>
+  <!-- EN: Cure surgical cut. -->
+  <CureInjurySurgicalCut.description>TODO</CureInjurySurgicalCut.description>
+  <!-- EN: Curing surgical cut. -->
+  <CureInjurySurgicalCut.jobString>TODO</CureInjurySurgicalCut.jobString>
+  
+</LanguageData>

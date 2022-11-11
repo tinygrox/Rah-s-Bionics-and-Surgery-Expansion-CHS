@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial bone -->
+  <ArtificialBone.label>TODO</ArtificialBone.label>
+  <!-- EN: Replaces destroyed bones. -->
+  <ArtificialBone.description>TODO</ArtificialBone.description>
+  
+  <!-- EN: artificial nose -->
+  <ArtificialNose.label>TODO</ArtificialNose.label>
+  <!-- EN: Replaces a missing nose. Covers the hole in the face. -->
+  <ArtificialNose.description>TODO</ArtificialNose.description>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>TODO</CochlearImplant.label>
+  <!-- EN: An implant which replaces normal hearing. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. -->
+  <CochlearImplant.description>TODO</CochlearImplant.description>
+  
+  <!-- EN: simple prosthetic arm -->
+  <SimpleProstheticArm.label>TODO</SimpleProstheticArm.label>
+  <!-- EN: An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm. -->
+  <SimpleProstheticArm.description>TODO</SimpleProstheticArm.description>
+  
+  <!-- EN: simple prosthetic foot -->
+  <SimpleProstheticFoot.label>TODO</SimpleProstheticFoot.label>
+  <!-- EN: Replaces missing feet. -->
+  <SimpleProstheticFoot.description>TODO</SimpleProstheticFoot.description>
+  
+  <!-- EN: simple prosthetic hand -->
+  <SimpleProstheticHand.label>TODO</SimpleProstheticHand.label>
+  <!-- EN: Replaces missing hands. Way more comfortable and less frightening than a hook hand. -->
+  <SimpleProstheticHand.description>TODO</SimpleProstheticHand.description>
+  
+  <!-- EN: simple prosthetic leg -->
+  <SimpleProstheticLeg.label>TODO</SimpleProstheticLeg.label>
+  <!-- EN: A leg prosthesis. While it lacks a neutral interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg. -->
+  <SimpleProstheticLeg.description>TODO</SimpleProstheticLeg.description>
+  
+</LanguageData>

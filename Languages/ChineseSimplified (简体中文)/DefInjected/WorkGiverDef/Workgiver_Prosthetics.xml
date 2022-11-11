@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Craft medical item -->
+  <DoBillsAdvancedMedicalStation.label>TODO</DoBillsAdvancedMedicalStation.label>
+  <!-- EN: creating -->
+  <DoBillsAdvancedMedicalStation.gerund>TODO</DoBillsAdvancedMedicalStation.gerund>
+  <!-- EN: create -->
+  <DoBillsAdvancedMedicalStation.verb>TODO</DoBillsAdvancedMedicalStation.verb>
+  
+  <!-- EN: Craft medical item -->
+  <DoBillsBionicWorkbench.label>TODO</DoBillsBionicWorkbench.label>
+  <!-- EN: creating -->
+  <DoBillsBionicWorkbench.gerund>TODO</DoBillsBionicWorkbench.gerund>
+  <!-- EN: create -->
+  <DoBillsBionicWorkbench.verb>TODO</DoBillsBionicWorkbench.verb>
+  
+</LanguageData>

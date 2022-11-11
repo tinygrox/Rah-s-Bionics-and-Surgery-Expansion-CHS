@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chronic kidney disease -->
+  <ChronicKidneyDisease.label>TODO</ChronicKidneyDisease.label>
+  <!-- EN: Degenerative kidney disease. Will eventually lead to kidney failure. -->
+  <ChronicKidneyDisease.description>TODO</ChronicKidneyDisease.description>
+  <!-- EN: minor -->
+  <ChronicKidneyDisease.stages.minor-0.label>TODO</ChronicKidneyDisease.stages.minor-0.label>
+  <!-- EN: minor -->
+  <ChronicKidneyDisease.stages.minor-1.label>TODO</ChronicKidneyDisease.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <ChronicKidneyDisease.stages.moderate.label>TODO</ChronicKidneyDisease.stages.moderate.label>
+  <!-- EN: major -->
+  <ChronicKidneyDisease.stages.major.label>TODO</ChronicKidneyDisease.stages.major.label>
+  <!-- EN: extreme -->
+  <ChronicKidneyDisease.stages.extreme.label>TODO</ChronicKidneyDisease.stages.extreme.label>
+  
+  <!-- EN: chronic stomach disorder -->
+  <ChronicStomachDisorder.label>TODO</ChronicStomachDisorder.label>
+  <!-- EN: A chronic disorder of the stomach that causes discomfort and digestive issues. -->
+  <ChronicStomachDisorder.description>TODO</ChronicStomachDisorder.description>
+  
+  <!-- EN: congenital heart defect -->
+  <CongenitalHeartDefect.label>TODO</CongenitalHeartDefect.label>
+  <!-- EN: A genetic heart defect that impairs the normal function of the heart. -->
+  <CongenitalHeartDefect.description>TODO</CongenitalHeartDefect.description>
+  <!-- EN: moderate -->
+  <CongenitalHeartDefect.stages.moderate.label>TODO</CongenitalHeartDefect.stages.moderate.label>
+  <!-- EN: major -->
+  <CongenitalHeartDefect.stages.major.label>TODO</CongenitalHeartDefect.stages.major.label>
+  
+</LanguageData>

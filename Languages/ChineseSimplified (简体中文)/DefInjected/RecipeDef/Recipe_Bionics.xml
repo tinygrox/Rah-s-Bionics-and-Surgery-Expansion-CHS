@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic arm -->
+  <InstallBionicArm.label>TODO</InstallBionicArm.label>
+  <!-- EN: Installs bionic arm. -->
+  <InstallBionicArm.description>TODO</InstallBionicArm.description>
+  <!-- EN: Installing bionic arm. -->
+  <InstallBionicArm.jobString>TODO</InstallBionicArm.jobString>
+  
+  <!-- EN: install bionic ear -->
+  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <!-- EN: Installs a bionic ear. -->
+  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <!-- EN: Installing a bionic ear implant. -->
+  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <InstallBionicEye.label>TODO</InstallBionicEye.label>
+  <!-- EN: Installs bionic eye. -->
+  <InstallBionicEye.description>TODO</InstallBionicEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <InstallBionicEye.jobString>TODO</InstallBionicEye.jobString>
+  
+  <!-- EN: install bionic foot -->
+  <InstallBionicFoot.label>TODO</InstallBionicFoot.label>
+  <!-- EN: Installs bionic foot. -->
+  <InstallBionicFoot.description>TODO</InstallBionicFoot.description>
+  <!-- EN: Installing bionic foot. -->
+  <InstallBionicFoot.jobString>TODO</InstallBionicFoot.jobString>
+  
+  <!-- EN: install bionic hand -->
+  <InstallBionicHand.label>TODO</InstallBionicHand.label>
+  <!-- EN: Installs bionic hand. -->
+  <InstallBionicHand.description>TODO</InstallBionicHand.description>
+  <!-- EN: Installing bionic hand. -->
+  <InstallBionicHand.jobString>TODO</InstallBionicHand.jobString>
+  
+  <!-- EN: install bionic jaw -->
+  <InstallBionicJaw.label>TODO</InstallBionicJaw.label>
+  <!-- EN: Installs a bionic jaw. -->
+  <InstallBionicJaw.description>TODO</InstallBionicJaw.description>
+  <!-- EN: Installing a bionic jaw implant. -->
+  <InstallBionicJaw.jobString>TODO</InstallBionicJaw.jobString>
+  
+  <!-- EN: install bionic leg -->
+  <InstallBionicLeg.label>TODO</InstallBionicLeg.label>
+  <!-- EN: Installs bionic leg. -->
+  <InstallBionicLeg.description>TODO</InstallBionicLeg.description>
+  <!-- EN: Installing bionic leg. -->
+  <InstallBionicLeg.jobString>TODO</InstallBionicLeg.jobString>
+  
+  <!-- EN: install bionic spine -->
+  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <!-- EN: Installs a bionic spine. -->
+  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <!-- EN: Installing a bionic spine. -->
+  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>TODO</InstallBionicTongue.label>
+  <!-- EN: Installs a bionic tongue. -->
+  <InstallBionicTongue.description>TODO</InstallBionicTongue.description>
+  <!-- EN: Installing a bionic tongue implant. -->
+  <InstallBionicTongue.jobString>TODO</InstallBionicTongue.jobString>
+  
+  <!-- EN: install power arm -->
+  <InstallPowerArm.label>TODO</InstallPowerArm.label>
+  <!-- EN: Installs power arm. -->
+  <InstallPowerArm.description>TODO</InstallPowerArm.description>
+  <!-- EN: Installing power arm. -->
+  <InstallPowerArm.jobString>TODO</InstallPowerArm.jobString>
+  
+</LanguageData>

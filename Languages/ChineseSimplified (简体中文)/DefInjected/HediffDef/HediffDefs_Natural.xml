@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart transplant -->
+  <Heart.label>TODO</Heart.label>
+  <!-- EN: A transplanted heart. -->
+  <Heart.description>TODO</Heart.description>
+  <!-- EN: mild rejection -->
+  <Heart.stages.mild_rejection.label>TODO</Heart.stages.mild_rejection.label>
+  <!-- EN: moderate rejection -->
+  <Heart.stages.moderate_rejection.label>TODO</Heart.stages.moderate_rejection.label>
+  <!-- EN: serious rejection -->
+  <Heart.stages.serious_rejection.label>TODO</Heart.stages.serious_rejection.label>
+  <!-- EN: deadly rejection -->
+  <Heart.stages.deadly_rejection.label>TODO</Heart.stages.deadly_rejection.label>
+  
+  <!-- EN: kidney transplant -->
+  <Kidney.label>TODO</Kidney.label>
+  <!-- EN: A transplanted kidney. -->
+  <Kidney.description>TODO</Kidney.description>
+  <!-- EN: mild rejection -->
+  <Kidney.stages.mild_rejection.label>TODO</Kidney.stages.mild_rejection.label>
+  <!-- EN: moderate rejection -->
+  <Kidney.stages.moderate_rejection.label>TODO</Kidney.stages.moderate_rejection.label>
+  <!-- EN: serious rejection -->
+  <Kidney.stages.serious_rejection.label>TODO</Kidney.stages.serious_rejection.label>
+  <!-- EN: deadly rejection -->
+  <Kidney.stages.deadly_rejection.label>TODO</Kidney.stages.deadly_rejection.label>
+  
+  <!-- EN: liver transplant -->
+  <Liver.label>TODO</Liver.label>
+  <!-- EN: A transplanted liver. -->
+  <Liver.description>TODO</Liver.description>
+  <!-- EN: mild rejection -->
+  <Liver.stages.mild_rejection.label>TODO</Liver.stages.mild_rejection.label>
+  <!-- EN: moderate rejection -->
+  <Liver.stages.moderate_rejection.label>TODO</Liver.stages.moderate_rejection.label>
+  <!-- EN: serious rejection -->
+  <Liver.stages.serious_rejection.label>TODO</Liver.stages.serious_rejection.label>
+  <!-- EN: deadly rejection -->
+  <Liver.stages.deadly_rejection.label>TODO</Liver.stages.deadly_rejection.label>
+  
+  <!-- EN: lung transplant -->
+  <Lung.label>TODO</Lung.label>
+  <!-- EN: A transplanted lung. -->
+  <Lung.description>TODO</Lung.description>
+  <!-- EN: mild rejection -->
+  <Lung.stages.mild_rejection.label>TODO</Lung.stages.mild_rejection.label>
+  <!-- EN: moderate rejection -->
+  <Lung.stages.moderate_rejection.label>TODO</Lung.stages.moderate_rejection.label>
+  <!-- EN: serious rejection -->
+  <Lung.stages.serious_rejection.label>TODO</Lung.stages.serious_rejection.label>
+  <!-- EN: deadly rejection -->
+  <Lung.stages.deadly_rejection.label>TODO</Lung.stages.deadly_rejection.label>
+  
+  <!-- EN: stomach transplant -->
+  <Stomach.label>TODO</Stomach.label>
+  <!-- EN: A transplanted stomach. -->
+  <Stomach.description>TODO</Stomach.description>
+  <!-- EN: mild rejection -->
+  <Stomach.stages.mild_rejection.label>TODO</Stomach.stages.mild_rejection.label>
+  <!-- EN: moderate rejection -->
+  <Stomach.stages.moderate_rejection.label>TODO</Stomach.stages.moderate_rejection.label>
+  <!-- EN: serious rejection -->
+  <Stomach.stages.serious_rejection.label>TODO</Stomach.stages.serious_rejection.label>
+  <!-- EN: deadly rejection -->
+  <Stomach.stages.deadly_rejection.label>TODO</Stomach.stages.deadly_rejection.label>
+  
+</LanguageData>

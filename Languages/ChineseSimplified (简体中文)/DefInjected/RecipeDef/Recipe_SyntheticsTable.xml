@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Create cortexaugmentor -->
+  <MakeCortexaugmentor.label>TODO</MakeCortexaugmentor.label>
+  <!-- EN: Creates a cortexaugmentor. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the general intelligence of the subject. The implant is placed into the prefrontal cortex which increases cognitive abilities such as language and learning speed. -->
+  <MakeCortexaugmentor.description>TODO</MakeCortexaugmentor.description>
+  <!-- EN: Creating implant. -->
+  <MakeCortexaugmentor.jobString>TODO</MakeCortexaugmentor.jobString>
+  
+  <!-- EN: Create hyporegulator -->
+  <MakeHyporegulator.label>TODO</MakeHyporegulator.label>
+  <!-- EN: Creates a hyporegulator. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the mental and physical resilience of the subject. The implant is placed into the hypothalamus which increases the effectiveness of the HPA axis and the body's thermoregulation. -->
+  <MakeHyporegulator.description>TODO</MakeHyporegulator.description>
+  <!-- EN: Creating implant. -->
+  <MakeHyporegulator.jobString>TODO</MakeHyporegulator.jobString>
+  
+  <!-- EN: Create neurostimulator -->
+  <MakeNeurostimulator.label>TODO</MakeNeurostimulator.label>
+  <!-- EN: Creates a neurostimulator. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to restore the consciousness of the subject. Recommended for colonists affected by brain diseases and brain damage. -->
+  <MakeNeurostimulator.description>TODO</MakeNeurostimulator.description>
+  <!-- EN: Creating implant. -->
+  <MakeNeurostimulator.jobString>TODO</MakeNeurostimulator.jobString>
+  
+  <!-- EN: Create synthetic heart -->
+  <MakeSyntheticHeart.label>TODO</MakeSyntheticHeart.label>
+  <!-- EN: Creates a synthetic heart from hyperweave and plasteel. -->
+  <MakeSyntheticHeart.description>TODO</MakeSyntheticHeart.description>
+  <!-- EN: Creating synthetic organ. -->
+  <MakeSyntheticHeart.jobString>TODO</MakeSyntheticHeart.jobString>
+  
+  <!-- EN: Create synthetic kidney -->
+  <MakeSyntheticKidney.label>TODO</MakeSyntheticKidney.label>
+  <!-- EN: Creates a synthetic kidney from hyperweave and plasteel -->
+  <MakeSyntheticKidney.description>TODO</MakeSyntheticKidney.description>
+  <!-- EN: Creating synthetic organ. -->
+  <MakeSyntheticKidney.jobString>TODO</MakeSyntheticKidney.jobString>
+  
+  <!-- EN: Create synthetic liver -->
+  <MakeSyntheticLiver.label>TODO</MakeSyntheticLiver.label>
+  <!-- EN: Creates a synthetic liver from hyperweave and plasteel -->
+  <MakeSyntheticLiver.description>TODO</MakeSyntheticLiver.description>
+  <!-- EN: Creating synthetic organ. -->
+  <MakeSyntheticLiver.jobString>TODO</MakeSyntheticLiver.jobString>
+  
+  <!-- EN: Create synthetic lung -->
+  <MakeSyntheticLung.label>TODO</MakeSyntheticLung.label>
+  <!-- EN: Creates a synthetic lung from hyperweave and plasteel -->
+  <MakeSyntheticLung.description>TODO</MakeSyntheticLung.description>
+  <!-- EN: Creating synthetic organ. -->
+  <MakeSyntheticLung.jobString>TODO</MakeSyntheticLung.jobString>
+  
+  <!-- EN: Create synthetic stomach -->
+  <MakeSyntheticStomach.label>TODO</MakeSyntheticStomach.label>
+  <!-- EN: Creates a synthetic stomach from hyperweave and plasteel -->
+  <MakeSyntheticStomach.description>TODO</MakeSyntheticStomach.description>
+  <!-- EN: Creating synthetic organ. -->
+  <MakeSyntheticStomach.jobString>TODO</MakeSyntheticStomach.jobString>
+  
+</LanguageData>

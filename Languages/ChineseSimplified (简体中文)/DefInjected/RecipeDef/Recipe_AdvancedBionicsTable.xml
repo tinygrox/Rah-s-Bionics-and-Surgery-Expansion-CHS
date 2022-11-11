@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Upgrade bionic arm -->
+  <MakeAdvancedBionicArm.label>TODO</MakeAdvancedBionicArm.label>
+  <!-- EN: Upgrades a bionic arm. -->
+  <MakeAdvancedBionicArm.description>TODO</MakeAdvancedBionicArm.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicArm.jobString>TODO</MakeAdvancedBionicArm.jobString>
+  
+  <!-- EN: Upgrade bionic ear -->
+  <MakeAdvancedBionicEar.label>TODO</MakeAdvancedBionicEar.label>
+  <!-- EN: Upgrades a bionic ear. -->
+  <MakeAdvancedBionicEar.description>TODO</MakeAdvancedBionicEar.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicEar.jobString>TODO</MakeAdvancedBionicEar.jobString>
+  
+  <!-- EN: Upgrade bionic eye -->
+  <MakeAdvancedBionicEye.label>TODO</MakeAdvancedBionicEye.label>
+  <!-- EN: Upgrades a bionic eye. -->
+  <MakeAdvancedBionicEye.description>TODO</MakeAdvancedBionicEye.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicEye.jobString>TODO</MakeAdvancedBionicEye.jobString>
+  
+  <!-- EN: Upgrade bionic foot -->
+  <MakeAdvancedBionicFoot.label>TODO</MakeAdvancedBionicFoot.label>
+  <!-- EN: Upgrades a bionic foot. -->
+  <MakeAdvancedBionicFoot.description>TODO</MakeAdvancedBionicFoot.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicFoot.jobString>TODO</MakeAdvancedBionicFoot.jobString>
+  
+  <!-- EN: Upgrade bionic hand -->
+  <MakeAdvancedBionicHand.label>TODO</MakeAdvancedBionicHand.label>
+  <!-- EN: Upgrades a bionic hand. -->
+  <MakeAdvancedBionicHand.description>TODO</MakeAdvancedBionicHand.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicHand.jobString>TODO</MakeAdvancedBionicHand.jobString>
+  
+  <!-- EN: Upgrade bionic leg -->
+  <MakeAdvancedBionicLeg.label>TODO</MakeAdvancedBionicLeg.label>
+  <!-- EN: Upgrades a bionic leg. -->
+  <MakeAdvancedBionicLeg.description>TODO</MakeAdvancedBionicLeg.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicLeg.jobString>TODO</MakeAdvancedBionicLeg.jobString>
+  
+  <!-- EN: Upgrade bionic spine -->
+  <MakeAdvancedBionicSpine.label>TODO</MakeAdvancedBionicSpine.label>
+  <!-- EN: Upgrades a bionic spine. -->
+  <MakeAdvancedBionicSpine.description>TODO</MakeAdvancedBionicSpine.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedBionicSpine.jobString>TODO</MakeAdvancedBionicSpine.jobString>
+  
+  <!-- EN: Upgrade power arm -->
+  <MakeAdvancedPowerArm.label>TODO</MakeAdvancedPowerArm.label>
+  <!-- EN: Upgrades a power arm. Highly lethal and effective in combat.\n\nDo not install on an unstable subject, as this might cause unwanted death and destruction. -->
+  <MakeAdvancedPowerArm.description>TODO</MakeAdvancedPowerArm.description>
+  <!-- EN: Upgrading bionic part. -->
+  <MakeAdvancedPowerArm.jobString>TODO</MakeAdvancedPowerArm.jobString>
+  
+  <!-- EN: Craft exoskeleton suit -->
+  <MakeExoskeletonSuit.label>TODO</MakeExoskeletonSuit.label>
+  <!-- EN: Crafts an exoskeleton suit from steel, plasteel and components. -->
+  <MakeExoskeletonSuit.description>TODO</MakeExoskeletonSuit.description>
+  <!-- EN: Crafting bionic part. -->
+  <MakeExoskeletonSuit.jobString>TODO</MakeExoskeletonSuit.jobString>
+  
+</LanguageData>

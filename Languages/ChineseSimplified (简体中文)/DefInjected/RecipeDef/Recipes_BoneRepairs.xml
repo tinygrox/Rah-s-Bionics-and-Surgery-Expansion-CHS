@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install femur -->
+  <InstallFemur.label>TODO</InstallFemur.label>
+  <!-- EN: Installs femur -->
+  <InstallFemur.description>TODO</InstallFemur.description>
+  <!-- EN: Installing femur -->
+  <InstallFemur.jobString>TODO</InstallFemur.jobString>
+  
+  <!-- EN: install humerus -->
+  <InstallHumerus.label>TODO</InstallHumerus.label>
+  <!-- EN: Installs humerus -->
+  <InstallHumerus.description>TODO</InstallHumerus.description>
+  <!-- EN: Installing humerus -->
+  <InstallHumerus.jobString>TODO</InstallHumerus.jobString>
+  
+  <!-- EN: install radius -->
+  <InstallRadius.label>TODO</InstallRadius.label>
+  <!-- EN: Installs radius -->
+  <InstallRadius.description>TODO</InstallRadius.description>
+  <!-- EN: Installing radius -->
+  <InstallRadius.jobString>TODO</InstallRadius.jobString>
+  
+  <!-- EN: spinal fusion -->
+  <InstallSpinalFusion.label>TODO</InstallSpinalFusion.label>
+  <!-- EN: Fuses the spine. -->
+  <InstallSpinalFusion.description>TODO</InstallSpinalFusion.description>
+  <!-- EN: Fusing the spine. -->
+  <InstallSpinalFusion.jobString>TODO</InstallSpinalFusion.jobString>
+  
+  <!-- EN: install tibia -->
+  <InstallTibia.label>TODO</InstallTibia.label>
+  <!-- EN: Installs tibia -->
+  <InstallTibia.description>TODO</InstallTibia.description>
+  <!-- EN: Installing tibia -->
+  <InstallTibia.jobString>TODO</InstallTibia.jobString>
+  
+</LanguageData>

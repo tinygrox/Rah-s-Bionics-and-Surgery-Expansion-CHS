@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Rah's Bionics and Surgery Expansion CHS</name>
+    <author>tinygrox</author>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <packageId>tinygrox.CHS.RBSE</packageId>
+    <loadAfter>
+        <li>Rah.RBSE</li>
+    </loadAfter>
+    <modDependencies>
+        <li>
+            <packageId>Rah.RBSE</packageId>
+            <displayName>Rah's Bionics and Surgery Expansion</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/850429707</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <description></description>
+</ModMetaData>

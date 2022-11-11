@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Craft artificial bone -->
+  <MakeArtificialBone.label>TODO</MakeArtificialBone.label>
+  <!-- EN: Crafts an artifical bone from plasteel and steel. -->
+  <MakeArtificialBone.description>TODO</MakeArtificialBone.description>
+  <!-- EN: Crafting artifical bone. -->
+  <MakeArtificialBone.jobString>TODO</MakeArtificialBone.jobString>
+  
+  <!-- EN: craft artificial nose -->
+  <MakeArtificialNose.label>TODO</MakeArtificialNose.label>
+  <!-- EN: Crafts an artificial nose from plasteel. -->
+  <MakeArtificialNose.description>TODO</MakeArtificialNose.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeArtificialNose.jobString>TODO</MakeArtificialNose.jobString>
+  
+  <!-- EN: Craft cochlear implant -->
+  <MakeCochlearImplant.label>TODO</MakeCochlearImplant.label>
+  <!-- EN: Crafts a cochlear implant from steel and components. -->
+  <MakeCochlearImplant.description>TODO</MakeCochlearImplant.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeCochlearImplant.jobString>TODO</MakeCochlearImplant.jobString>
+  
+  <!-- EN: Craft simple prosthetic arm -->
+  <MakeSimpleProstheticArm.label>TODO</MakeSimpleProstheticArm.label>
+  <!-- EN: Crafts a simple prosthetic arm from steel and components. -->
+  <MakeSimpleProstheticArm.description>TODO</MakeSimpleProstheticArm.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeSimpleProstheticArm.jobString>TODO</MakeSimpleProstheticArm.jobString>
+  
+  <!-- EN: craft simple prosthetic foot -->
+  <MakeSimpleProstheticFoot.label>TODO</MakeSimpleProstheticFoot.label>
+  <!-- EN: Crafts a simple prosthetic foot from steel and components. -->
+  <MakeSimpleProstheticFoot.description>TODO</MakeSimpleProstheticFoot.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeSimpleProstheticFoot.jobString>TODO</MakeSimpleProstheticFoot.jobString>
+  
+  <!-- EN: craft simple prosthetic hand -->
+  <MakeSimpleProstheticHand.label>TODO</MakeSimpleProstheticHand.label>
+  <!-- EN: Crafts a simple prosthetic hand from steel and components. -->
+  <MakeSimpleProstheticHand.description>TODO</MakeSimpleProstheticHand.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeSimpleProstheticHand.jobString>TODO</MakeSimpleProstheticHand.jobString>
+  
+  <!-- EN: Craft simple prosthetic leg -->
+  <MakeSimpleProstheticLeg.label>TODO</MakeSimpleProstheticLeg.label>
+  <!-- EN: Crafts a simple prosthetic leg from steel and components. -->
+  <MakeSimpleProstheticLeg.description>TODO</MakeSimpleProstheticLeg.description>
+  <!-- EN: Crafting prosthesis. -->
+  <MakeSimpleProstheticLeg.jobString>TODO</MakeSimpleProstheticLeg.jobString>
+  
+</LanguageData>

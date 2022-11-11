@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortexaugmentor -->
+  <Cortexaugmentor.label>TODO</Cortexaugmentor.label>
+  <!-- EN: Highly advanced brain implant that attempts to enhance the general intelligence of the subject. The implant is placed into the prefrontal cortex which increases cognitive abilities such as language and learning speed. -->
+  <Cortexaugmentor.description>TODO</Cortexaugmentor.description>
+  
+  <!-- EN: hyporegulator -->
+  <Hyporegulator.label>TODO</Hyporegulator.label>
+  <!-- EN: Highly advanced brain implant that attempts to enhance the mental and physical resilience of the subject. The implant is placed into the hypothalamus which increases the effectiveness of the HPA axis and the body's thermoregulation. -->
+  <Hyporegulator.description>TODO</Hyporegulator.description>
+  
+  <!-- EN: neurostimulator -->
+  <Neurostimulator.label>TODO</Neurostimulator.label>
+  <!-- EN: Highly advanced brain implant that attempts to restore the consciousness of the subject. Recommended for colonists affected by brain diseases and brain damage. -->
+  <Neurostimulator.description>TODO</Neurostimulator.description>
+  
+  <!-- EN: synthetic heart -->
+  <SyntheticHeart.label>TODO</SyntheticHeart.label>
+  <!-- EN: An enhanced heart augmented with nanocells to increase organ efficiency and durability. Should be kept frozen outside of the body to avoid cell death and organ failure.\n\nDoes not trigger transplant rejection.\n\nStats:\nBlood pumping: 20%\nMoving: 10%\nManipulation: 10% -->
+  <SyntheticHeart.description>TODO</SyntheticHeart.description>
+  
+  <!-- EN: synthetic kidney -->
+  <SyntheticKidney.label>TODO</SyntheticKidney.label>
+  <!-- EN: An enhanced kidney augmented with nanocells to increase organ efficiency and durability. Should be kept frozen outside of the body to avoid cell death and organ failure.\n\nDoes not trigger transplant rejection.\n\nStats:\nBlood filtration: 20% -->
+  <SyntheticKidney.description>TODO</SyntheticKidney.description>
+  
+  <!-- EN: synthetic liver -->
+  <SyntheticLiver.label>TODO</SyntheticLiver.label>
+  <!-- EN: An enhanced liver augmented with nanocells to increase organ efficiency and durability. Should be kept frozen outside of the body to avoid cell death and organ failure.\n\nDoes not trigger transplant rejection.\n\nStats:\nBlood filtration: 20% -->
+  <SyntheticLiver.description>TODO</SyntheticLiver.description>
+  
+  <!-- EN: synthetic lung -->
+  <SyntheticLung.label>TODO</SyntheticLung.label>
+  <!-- EN: An enhanced lung augmented with nanocells to increase organ efficiency and durability. Should be kept frozen outside of the body to avoid cell death and organ failure.\n\nDoes not trigger transplant rejection.\n\nStats:\nBreathing: 20%\nMoving: 5% -->
+  <SyntheticLung.description>TODO</SyntheticLung.description>
+  
+  <!-- EN: synthetic stomach -->
+  <SyntheticStomach.label>TODO</SyntheticStomach.label>
+  <!-- EN: An enhanced stomach augmented with nanocells to increase organ efficiency and durability. Should be kept frozen outside of the body to avoid cell death and organ failure.\n\nDoes not trigger transplant rejection.\n\nStats:\nMetabolism: 25% -->
+  <SyntheticStomach.description>TODO</SyntheticStomach.description>
+  
+</LanguageData>

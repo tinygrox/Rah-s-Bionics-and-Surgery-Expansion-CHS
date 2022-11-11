@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced bionic arm -->
+  <AdvancedBionicArm.label>TODO</AdvancedBionicArm.label>
+  <!-- EN: An upgraded bionic arm. Advanced technology that improves manipulation further. -->
+  <AdvancedBionicArm.description>TODO</AdvancedBionicArm.description>
+  
+  <!-- EN: advanced bionic ear -->
+  <AdvancedBionicEar.label>TODO</AdvancedBionicEar.label>
+  <!-- EN: An upgraded bionic ear. This device further improves social impact, negotiation ability and animal training. -->
+  <AdvancedBionicEar.description>TODO</AdvancedBionicEar.description>
+  
+  <!-- EN: advanced bionic eye -->
+  <AdvancedBionicEye.label>TODO</AdvancedBionicEye.label>
+  <!-- EN: An upgraded bionic eye.This advanced piece of technology allows the user to see perfectly in the dark as well as to see through walls. -->
+  <AdvancedBionicEye.description>TODO</AdvancedBionicEye.description>
+  
+  <!-- EN: advanced bionic foot -->
+  <AdvancedBionicFoot.label>TODO</AdvancedBionicFoot.label>
+  <!-- EN: An upgraded bionic foot. Dozens of servomotors grant faster movement and ultimate comfort. -->
+  <AdvancedBionicFoot.description>TODO</AdvancedBionicFoot.description>
+  
+  <!-- EN: advanced bionic hand -->
+  <AdvancedBionicHand.label>TODO</AdvancedBionicHand.label>
+  <!-- EN: An upgraded bionic hand. Some people would chop their own hands off just to get this gorgeous piece of tech. -->
+  <AdvancedBionicHand.description>TODO</AdvancedBionicHand.description>
+  
+  <!-- EN: advanced bionic leg -->
+  <AdvancedBionicLeg.label>TODO</AdvancedBionicLeg.label>
+  <!-- EN: An upgraded bionic leg. Advanced technology that allows the user to move around faster than ever. -->
+  <AdvancedBionicLeg.description>TODO</AdvancedBionicLeg.description>
+  
+  <!-- EN: advanced bionic spine -->
+  <AdvancedBionicSpine.label>TODO</AdvancedBionicSpine.label>
+  <!-- EN: An upgraded bionic spine. This durable device makes the user extremely mobile and flexible. -->
+  <AdvancedBionicSpine.description>TODO</AdvancedBionicSpine.description>
+  
+  <!-- EN: advanced power arm -->
+  <AdvancedPowerArm.label>TODO</AdvancedPowerArm.label>
+  <!-- EN: An upgraded artificial power arm. Highly lethal and effective in combat.\n\nDo not install on an unstable subject, as this might cause unwanted death and destruction. -->
+  <AdvancedPowerArm.description>TODO</AdvancedPowerArm.description>
+  
+  <!-- EN: exoskeleton suit -->
+  <ExoskeletonSuit.label>TODO</ExoskeletonSuit.label>
+  <!-- EN: A high tech device made out of two components: a light skeletal structure and servomotors to make the user faster and stronger. -->
+  <ExoskeletonSuit.description>TODO</ExoskeletonSuit.description>
+  
+</LanguageData>

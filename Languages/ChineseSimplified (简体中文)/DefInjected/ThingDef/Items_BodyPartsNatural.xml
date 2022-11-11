@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart -->
+  <Heart.label>TODO</Heart.label>
+  <!-- EN: Supplies blood and oxygen to all parts of the body. Ready to find a new owner. Needs refrigeration. -->
+  <Heart.description>TODO</Heart.description>
+  
+  <!-- EN: kidney -->
+  <Kidney.label>TODO</Kidney.label>
+  <!-- EN: Filters and removes waste products from the blood. Needs refrigeration. -->
+  <Kidney.description>TODO</Kidney.description>
+  
+  <!-- EN: liver -->
+  <Liver.label>TODO</Liver.label>
+  <!-- EN: Plays an important role in metabolism and filtration. Needs refrigeration. -->
+  <Liver.description>TODO</Liver.description>
+  
+  <!-- EN: lung -->
+  <Lung.label>TODO</Lung.label>
+  <!-- EN: Essential part of the respiratory system. Needs refrigeration. -->
+  <Lung.description>TODO</Lung.description>
+  
+  <!-- EN: stomach -->
+  <Stomach.label>TODO</Stomach.label>
+  <!-- EN: Digests food and turns it into energy and nutrients. Needs refrigeration. -->
+  <Stomach.description>TODO</Stomach.description>
+  
+</LanguageData>

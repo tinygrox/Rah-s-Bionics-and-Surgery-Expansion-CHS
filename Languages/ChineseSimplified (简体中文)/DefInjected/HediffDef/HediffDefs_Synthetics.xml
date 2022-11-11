@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortexaugmentor -->
+  <Cortexaugmentor.label>TODO</Cortexaugmentor.label>
+  <!-- EN: An installed cortexaugmentor. -->
+  <Cortexaugmentor.description>TODO</Cortexaugmentor.description>
+  <!-- EN: A cortexaugmentor -->
+  <Cortexaugmentor.labelNoun>TODO</Cortexaugmentor.labelNoun>
+  
+  <!-- EN: hyporegulator -->
+  <Hyporegulator.label>TODO</Hyporegulator.label>
+  <!-- EN: An installed hyporegulator. -->
+  <Hyporegulator.description>TODO</Hyporegulator.description>
+  <!-- EN: a hyporegulator -->
+  <Hyporegulator.labelNoun>TODO</Hyporegulator.labelNoun>
+  
+  <!-- EN: neurostimulator -->
+  <Neurostimulator.label>TODO</Neurostimulator.label>
+  <!-- EN: An installed neurostimulator. -->
+  <Neurostimulator.description>TODO</Neurostimulator.description>
+  <!-- EN: a neurostimulator -->
+  <Neurostimulator.labelNoun>TODO</Neurostimulator.labelNoun>
+  
+  <!-- EN: synthetic heart -->
+  <SyntheticHeart.label>TODO</SyntheticHeart.label>
+  <!-- EN: An installed synthetic heart. -->
+  <SyntheticHeart.description>TODO</SyntheticHeart.description>
+  <!-- EN: a synthetic heart -->
+  <SyntheticHeart.labelNoun>TODO</SyntheticHeart.labelNoun>
+  
+  <!-- EN: synthetic kidney -->
+  <SyntheticKidney.label>TODO</SyntheticKidney.label>
+  <!-- EN: An installed synthetic kidney. -->
+  <SyntheticKidney.description>TODO</SyntheticKidney.description>
+  <!-- EN: a synthetic kidney -->
+  <SyntheticKidney.labelNoun>TODO</SyntheticKidney.labelNoun>
+  
+  <!-- EN: synthetic liver -->
+  <SyntheticLiver.label>TODO</SyntheticLiver.label>
+  <!-- EN: An installed synthetic liver. -->
+  <SyntheticLiver.description>TODO</SyntheticLiver.description>
+  <!-- EN: a synthetic liver -->
+  <SyntheticLiver.labelNoun>TODO</SyntheticLiver.labelNoun>
+  
+  <!-- EN: synthetic lung -->
+  <SyntheticLung.label>TODO</SyntheticLung.label>
+  <!-- EN: An installed synthetic lung. -->
+  <SyntheticLung.description>TODO</SyntheticLung.description>
+  <!-- EN: a synthetic lung -->
+  <SyntheticLung.labelNoun>TODO</SyntheticLung.labelNoun>
+  
+  <!-- EN: synthetic stomach -->
+  <SyntheticStomach.label>TODO</SyntheticStomach.label>
+  <!-- EN: An installed synthetic stomach. -->
+  <SyntheticStomach.description>TODO</SyntheticStomach.description>
+  <!-- EN: a synthetic stomach -->
+  <SyntheticStomach.labelNoun>TODO</SyntheticStomach.labelNoun>
+  
+</LanguageData>
