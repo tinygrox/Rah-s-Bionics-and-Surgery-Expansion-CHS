@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: n/a -->
-  <InstallBionicHeart.label>TODO</InstallBionicHeart.label>
+  <InstallBionicHeart.label>安装仿生心脏</InstallBionicHeart.label>
   <!-- EN: n/a -->
-  <InstallBionicHeart.description>TODO</InstallBionicHeart.description>
+  <InstallBionicHeart.description>安装仿生心脏。</InstallBionicHeart.description>
   <!-- EN: n/a -->
-  <InstallBionicHeart.jobString>TODO</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>正在安装仿生心脏。</InstallBionicHeart.jobString>
   
   <!-- EN: n/a -->
-  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <InstallBionicStomach.label>安装仿生胃</InstallBionicStomach.label>
   <!-- EN: n/a -->
-  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <InstallBionicStomach.description>安装仿生胃。</InstallBionicStomach.description>
   <!-- EN: n/a -->
-  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>正在安装仿生胃。</InstallBionicStomach.jobString>
   
   <!-- EN: n/a -->
-  <InstallSimpleProstheticHeart.label>TODO</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.label>安装人工心脏</InstallSimpleProstheticHeart.label>
   <!-- EN: n/a -->
-  <InstallSimpleProstheticHeart.description>TODO</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.description>安装人工心脏。</InstallSimpleProstheticHeart.description>
   <!-- EN: n/a -->
-  <InstallSimpleProstheticHeart.jobString>TODO</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.jobString>正在安装人工心脏。</InstallSimpleProstheticHeart.jobString>
   
 </LanguageData>

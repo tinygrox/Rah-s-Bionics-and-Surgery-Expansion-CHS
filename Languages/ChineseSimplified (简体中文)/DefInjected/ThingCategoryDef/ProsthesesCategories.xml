@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: advanced bionics -->
-  <AdvancedProstheses.label>TODO</AdvancedProstheses.label>
+  <AdvancedProstheses.label>先进仿生体</AdvancedProstheses.label>
   
   <!-- EN: bionics -->
-  <BionicProstheses.label>TODO</BionicProstheses.label>
+  <BionicProstheses.label>仿生体</BionicProstheses.label>
   
   <!-- EN: brain implants -->
-  <BrainImplants.label>TODO</BrainImplants.label>
+  <BrainImplants.label>大脑植入物</BrainImplants.label>
   
   <!-- EN: simple prostheses -->
-  <SimpleProstheses.label>TODO</SimpleProstheses.label>
+  <SimpleProstheses.label>简易假体</SimpleProstheses.label>
   
   <!-- EN: synthetic organs -->
-  <SyntheticOrgans.label>TODO</SyntheticOrgans.label>
+  <SyntheticOrgans.label>合成器官</SyntheticOrgans.label>
   
 </LanguageData>

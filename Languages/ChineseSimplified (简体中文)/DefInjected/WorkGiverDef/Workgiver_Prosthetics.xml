@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: Craft medical item -->
-  <DoBillsAdvancedMedicalStation.label>TODO</DoBillsAdvancedMedicalStation.label>
+  <DoBillsAdvancedMedicalStation.label>制作医疗用品</DoBillsAdvancedMedicalStation.label>
   <!-- EN: creating -->
-  <DoBillsAdvancedMedicalStation.gerund>TODO</DoBillsAdvancedMedicalStation.gerund>
+  <DoBillsAdvancedMedicalStation.gerund>制作</DoBillsAdvancedMedicalStation.gerund>
   <!-- EN: create -->
-  <DoBillsAdvancedMedicalStation.verb>TODO</DoBillsAdvancedMedicalStation.verb>
+  <DoBillsAdvancedMedicalStation.verb>制作</DoBillsAdvancedMedicalStation.verb>
   
   <!-- EN: Craft medical item -->
-  <DoBillsBionicWorkbench.label>TODO</DoBillsBionicWorkbench.label>
+  <DoBillsBionicWorkbench.label>制作仿生假体</DoBillsBionicWorkbench.label>
   <!-- EN: creating -->
-  <DoBillsBionicWorkbench.gerund>TODO</DoBillsBionicWorkbench.gerund>
+  <DoBillsBionicWorkbench.gerund>制作</DoBillsBionicWorkbench.gerund>
   <!-- EN: create -->
-  <DoBillsBionicWorkbench.verb>TODO</DoBillsBionicWorkbench.verb>
+  <DoBillsBionicWorkbench.verb>制作</DoBillsBionicWorkbench.verb>
   
 </LanguageData>

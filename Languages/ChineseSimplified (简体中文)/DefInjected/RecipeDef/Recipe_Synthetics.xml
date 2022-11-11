@@ -2,59 +2,59 @@
 <LanguageData>
   
   <!-- EN: install cortexaugmentor -->
-  <InstallCortexaugmentor.label>TODO</InstallCortexaugmentor.label>
+  <InstallCortexaugmentor.label>安装脑皮质增强芯片</InstallCortexaugmentor.label>
   <!-- EN: Installs cortexaugmentor. -->
-  <InstallCortexaugmentor.description>TODO</InstallCortexaugmentor.description>
+  <InstallCortexaugmentor.description>安装脑皮质增强芯片。</InstallCortexaugmentor.description>
   <!-- EN: Installing cortexaugmentor. -->
-  <InstallCortexaugmentor.jobString>TODO</InstallCortexaugmentor.jobString>
+  <InstallCortexaugmentor.jobString>正在安装脑皮质增强芯片。</InstallCortexaugmentor.jobString>
   
   <!-- EN: install hyporegulator -->
-  <InstallHyporegulator.label>TODO</InstallHyporegulator.label>
+  <InstallHyporegulator.label>安装调谐芯片</InstallHyporegulator.label>
   <!-- EN: Installs hyporegulator. -->
-  <InstallHyporegulator.description>TODO</InstallHyporegulator.description>
+  <InstallHyporegulator.description>安装调谐芯片。</InstallHyporegulator.description>
   <!-- EN: Installing hyporegulator. -->
-  <InstallHyporegulator.jobString>TODO</InstallHyporegulator.jobString>
+  <InstallHyporegulator.jobString>正在安装调谐芯片。</InstallHyporegulator.jobString>
   
   <!-- EN: install neurostimulator -->
-  <InstallNeurostimulator.label>TODO</InstallNeurostimulator.label>
+  <InstallNeurostimulator.label>安装合脑刺激器</InstallNeurostimulator.label>
   <!-- EN: Installs neurostimulator. -->
-  <InstallNeurostimulator.description>TODO</InstallNeurostimulator.description>
+  <InstallNeurostimulator.description>安装合脑刺激器</InstallNeurostimulator.description>
   <!-- EN: Installing neurostimulator. -->
-  <InstallNeurostimulator.jobString>TODO</InstallNeurostimulator.jobString>
+  <InstallNeurostimulator.jobString>正在安装脑刺激器。</InstallNeurostimulator.jobString>
   
   <!-- EN: install synthetic heart -->
-  <InstallSyntheticHeart.label>TODO</InstallSyntheticHeart.label>
+  <InstallSyntheticHeart.label>安装合成心</InstallSyntheticHeart.label>
   <!-- EN: Installs an artificial heart. -->
-  <InstallSyntheticHeart.description>TODO</InstallSyntheticHeart.description>
+  <InstallSyntheticHeart.description>安装合成心</InstallSyntheticHeart.description>
   <!-- EN: Installing an artificial heart. -->
-  <InstallSyntheticHeart.jobString>TODO</InstallSyntheticHeart.jobString>
+  <InstallSyntheticHeart.jobString>正在安装合成心。</InstallSyntheticHeart.jobString>
   
   <!-- EN: install synthetic kidney -->
-  <InstallSyntheticKidney.label>TODO</InstallSyntheticKidney.label>
+  <InstallSyntheticKidney.label>安装合成肾</InstallSyntheticKidney.label>
   <!-- EN: Installs a synthetic kidney. -->
-  <InstallSyntheticKidney.description>TODO</InstallSyntheticKidney.description>
+  <InstallSyntheticKidney.description>安装合成肾。</InstallSyntheticKidney.description>
   <!-- EN: Installing synthetic kidney. -->
-  <InstallSyntheticKidney.jobString>TODO</InstallSyntheticKidney.jobString>
+  <InstallSyntheticKidney.jobString>正在安装合成肾。</InstallSyntheticKidney.jobString>
   
   <!-- EN: install synthetic liver -->
-  <InstallSyntheticLiver.label>TODO</InstallSyntheticLiver.label>
+  <InstallSyntheticLiver.label>安装合成肝</InstallSyntheticLiver.label>
   <!-- EN: Installs a synthetic liver. -->
-  <InstallSyntheticLiver.description>TODO</InstallSyntheticLiver.description>
+  <InstallSyntheticLiver.description>安装合成肝。</InstallSyntheticLiver.description>
   <!-- EN: Installing synthetic liver. -->
-  <InstallSyntheticLiver.jobString>TODO</InstallSyntheticLiver.jobString>
+  <InstallSyntheticLiver.jobString>正在安装合成肝。</InstallSyntheticLiver.jobString>
   
   <!-- EN: install synthetic lung -->
-  <InstallSyntheticLung.label>TODO</InstallSyntheticLung.label>
+  <InstallSyntheticLung.label>安装合成肺</InstallSyntheticLung.label>
   <!-- EN: Installs synthetic lung. -->
-  <InstallSyntheticLung.description>TODO</InstallSyntheticLung.description>
+  <InstallSyntheticLung.description>安装合成肺。</InstallSyntheticLung.description>
   <!-- EN: Installing synthetic lung. -->
-  <InstallSyntheticLung.jobString>TODO</InstallSyntheticLung.jobString>
+  <InstallSyntheticLung.jobString>正在安装合成肺。</InstallSyntheticLung.jobString>
   
   <!-- EN: install synthetic stomach -->
-  <InstallSyntheticStomach.label>TODO</InstallSyntheticStomach.label>
+  <InstallSyntheticStomach.label>安装合成胃</InstallSyntheticStomach.label>
   <!-- EN: Installs a synthetic stomach. -->
-  <InstallSyntheticStomach.description>TODO</InstallSyntheticStomach.description>
+  <InstallSyntheticStomach.description>安装合成胃。</InstallSyntheticStomach.description>
   <!-- EN: Installing synthetic stomach. -->
-  <InstallSyntheticStomach.jobString>TODO</InstallSyntheticStomach.jobString>
+  <InstallSyntheticStomach.jobString>正在安装合成胃。</InstallSyntheticStomach.jobString>
   
 </LanguageData>

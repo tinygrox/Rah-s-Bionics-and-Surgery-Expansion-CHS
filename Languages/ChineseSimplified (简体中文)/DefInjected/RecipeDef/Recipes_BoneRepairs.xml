@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: install femur -->
-  <InstallFemur.label>TODO</InstallFemur.label>
+  <InstallFemur.label>修复股骨</InstallFemur.label>
   <!-- EN: Installs femur -->
-  <InstallFemur.description>TODO</InstallFemur.description>
+  <InstallFemur.description>修复股骨。</InstallFemur.description>
   <!-- EN: Installing femur -->
-  <InstallFemur.jobString>TODO</InstallFemur.jobString>
+  <InstallFemur.jobString>正在修复股骨。</InstallFemur.jobString>
   
   <!-- EN: install humerus -->
-  <InstallHumerus.label>TODO</InstallHumerus.label>
+  <InstallHumerus.label>修复肱骨</InstallHumerus.label>
   <!-- EN: Installs humerus -->
-  <InstallHumerus.description>TODO</InstallHumerus.description>
+  <InstallHumerus.description>修复肱骨。</InstallHumerus.description>
   <!-- EN: Installing humerus -->
-  <InstallHumerus.jobString>TODO</InstallHumerus.jobString>
+  <InstallHumerus.jobString>正在修复肱骨。</InstallHumerus.jobString>
   
   <!-- EN: install radius -->
-  <InstallRadius.label>TODO</InstallRadius.label>
+  <InstallRadius.label>修复桡骨</InstallRadius.label>
   <!-- EN: Installs radius -->
-  <InstallRadius.description>TODO</InstallRadius.description>
+  <InstallRadius.description>修复桡骨。</InstallRadius.description>
   <!-- EN: Installing radius -->
-  <InstallRadius.jobString>TODO</InstallRadius.jobString>
+  <InstallRadius.jobString>正在修复桡骨。</InstallRadius.jobString>
   
   <!-- EN: spinal fusion -->
-  <InstallSpinalFusion.label>TODO</InstallSpinalFusion.label>
+  <InstallSpinalFusion.label>修复脊椎</InstallSpinalFusion.label>
   <!-- EN: Fuses the spine. -->
-  <InstallSpinalFusion.description>TODO</InstallSpinalFusion.description>
+  <InstallSpinalFusion.description>修复脊椎。</InstallSpinalFusion.description>
   <!-- EN: Fusing the spine. -->
-  <InstallSpinalFusion.jobString>TODO</InstallSpinalFusion.jobString>
+  <InstallSpinalFusion.jobString>正在修复脊椎。</InstallSpinalFusion.jobString>
   
   <!-- EN: install tibia -->
-  <InstallTibia.label>TODO</InstallTibia.label>
+  <InstallTibia.label>修复胫骨</InstallTibia.label>
   <!-- EN: Installs tibia -->
-  <InstallTibia.description>TODO</InstallTibia.description>
+  <InstallTibia.description>修复胫骨。</InstallTibia.description>
   <!-- EN: Installing tibia -->
-  <InstallTibia.jobString>TODO</InstallTibia.jobString>
+  <InstallTibia.jobString>正在修复胫骨。</InstallTibia.jobString>
   
 </LanguageData>

@@ -2,93 +2,93 @@
 <LanguageData>
   
   <!-- EN: advanced bionic arm -->
-  <AdvancedBionicArm.label>TODO</AdvancedBionicArm.label>
+  <AdvancedBionicArm.label>先进仿生臂</AdvancedBionicArm.label>
   <!-- EN: An installed advanced bionic arm. -->
-  <AdvancedBionicArm.description>TODO</AdvancedBionicArm.description>
+  <AdvancedBionicArm.description>一条已安装的先进仿生臂。</AdvancedBionicArm.description>
   <!-- EN: fist -->
-  <AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>仿生拳</AdvancedBionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an advanced bionic arm -->
-  <AdvancedBionicArm.labelNoun>TODO</AdvancedBionicArm.labelNoun>
-  
+  <AdvancedBionicArm.labelNoun>先进仿生臂</AdvancedBionicArm.labelNoun>
+
   <!-- EN: advanced bionic ear -->
-  <AdvancedBionicEar.label>TODO</AdvancedBionicEar.label>
+  <AdvancedBionicEar.label>先进仿生耳</AdvancedBionicEar.label>
   <!-- EN: An installed advanced bionic ear. -->
-  <AdvancedBionicEar.description>TODO</AdvancedBionicEar.description>
-  
+  <AdvancedBionicEar.description>一只已安装的先进仿生耳。</AdvancedBionicEar.description>
+
   <!-- EN: advanced bionic eye -->
-  <AdvancedBionicEye.label>TODO</AdvancedBionicEye.label>
+  <AdvancedBionicEye.label>先进仿生眼</AdvancedBionicEye.label>
   <!-- EN: An installed advanced bionic eye. -->
-  <AdvancedBionicEye.description>TODO</AdvancedBionicEye.description>
+  <AdvancedBionicEye.description>一个已安装的先进仿生眼。</AdvancedBionicEye.description>
   <!-- EN: an advanced bionic eye -->
-  <AdvancedBionicEye.labelNoun>TODO</AdvancedBionicEye.labelNoun>
-  
+  <AdvancedBionicEye.labelNoun>先进仿生眼</AdvancedBionicEye.labelNoun>
+
   <!-- EN: advanced bionic foot -->
-  <AdvancedBionicFoot.label>TODO</AdvancedBionicFoot.label>
+  <AdvancedBionicFoot.label>先进仿生足</AdvancedBionicFoot.label>
   <!-- EN: An installed advanced bionic foot. -->
-  <AdvancedBionicFoot.description>TODO</AdvancedBionicFoot.description>
+  <AdvancedBionicFoot.description>一个已安装的先进仿生足。</AdvancedBionicFoot.description>
   <!-- EN: an advanced bionic foot -->
-  <AdvancedBionicFoot.labelNoun>TODO</AdvancedBionicFoot.labelNoun>
-  
+  <AdvancedBionicFoot.labelNoun>先进仿生足</AdvancedBionicFoot.labelNoun>
+
   <!-- EN: advanced bionic hand -->
-  <AdvancedBionicHand.label>TODO</AdvancedBionicHand.label>
+  <AdvancedBionicHand.label>先进仿生手</AdvancedBionicHand.label>
   <!-- EN: An installed advanced bionic hand. -->
-  <AdvancedBionicHand.description>TODO</AdvancedBionicHand.description>
+  <AdvancedBionicHand.description>一只已安装的先进仿生手。</AdvancedBionicHand.description>
   <!-- EN: fist -->
-  <AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>TODO</AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
+  <AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>仿生拳</AdvancedBionicHand.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an advanced bionic hand -->
-  <AdvancedBionicHand.labelNoun>TODO</AdvancedBionicHand.labelNoun>
-  
+  <AdvancedBionicHand.labelNoun>先进仿生手</AdvancedBionicHand.labelNoun>
+
   <!-- EN: advanced bionic leg -->
-  <AdvancedBionicLeg.label>TODO</AdvancedBionicLeg.label>
+  <AdvancedBionicLeg.label>先进仿生腿</AdvancedBionicLeg.label>
   <!-- EN: An installed advanced bionic leg. -->
-  <AdvancedBionicLeg.description>TODO</AdvancedBionicLeg.description>
+  <AdvancedBionicLeg.description>一条已安装的先进仿生腿。</AdvancedBionicLeg.description>
   <!-- EN: an advanced bionic leg -->
-  <AdvancedBionicLeg.labelNoun>TODO</AdvancedBionicLeg.labelNoun>
-  
+  <AdvancedBionicLeg.labelNoun>先进仿生腿</AdvancedBionicLeg.labelNoun>
+
   <!-- EN: advanced bionic spine -->
-  <AdvancedBionicSpine.label>TODO</AdvancedBionicSpine.label>
+  <AdvancedBionicSpine.label>先进仿生脊椎</AdvancedBionicSpine.label>
   <!-- EN: An installed advanced bionic spine. -->
-  <AdvancedBionicSpine.description>TODO</AdvancedBionicSpine.description>
+  <AdvancedBionicSpine.description>一个已安装的先进仿生脊椎。</AdvancedBionicSpine.description>
   <!-- EN: an advanced bionic spine -->
-  <AdvancedBionicSpine.labelNoun>TODO</AdvancedBionicSpine.labelNoun>
-  
+  <AdvancedBionicSpine.labelNoun>先进仿生脊椎</AdvancedBionicSpine.labelNoun>
+
   <!-- EN: advanced power arm -->
-  <AdvancedPowerArm.label>TODO</AdvancedPowerArm.label>
+  <AdvancedPowerArm.label>先进动力臂</AdvancedPowerArm.label>
   <!-- EN: An installed advanced power arm. -->
-  <AdvancedPowerArm.description>TODO</AdvancedPowerArm.description>
+  <AdvancedPowerArm.description>一条已安装的先进动力臂。</AdvancedPowerArm.description>
   <!-- EN: fist -->
-  <AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.fist.label>动力爪</AdvancedPowerArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an advanced power arm -->
-  <AdvancedPowerArm.labelNoun>TODO</AdvancedPowerArm.labelNoun>
-  
+  <AdvancedPowerArm.labelNoun>先进动力臂</AdvancedPowerArm.labelNoun>
+
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>超凡仿生臂</ArchotechArm.label>
   <!-- EN: An installed archotech arm. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>一条已安装的超凡仿生臂。</ArchotechArm.description>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>拳头</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
-  
+  <ArchotechArm.labelNoun>超凡仿生臂</ArchotechArm.labelNoun>
+
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>超凡仿生眼</ArchotechEye.label>
   <!-- EN: An installed archotech eye. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>一个已安装的超凡仿生眼。</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
-  
+  <ArchotechEye.labelNoun>超凡仿生眼</ArchotechEye.labelNoun>
+
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>超凡仿生腿</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>一条已安装的超凡仿生腿。</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
-  
+  <ArchotechLeg.labelNoun>超凡仿生腿</ArchotechLeg.labelNoun>
+
   <!-- EN: exoskeleton suit -->
-  <ExoskeletonSuit.label>TODO</ExoskeletonSuit.label>
+  <ExoskeletonSuit.label>外骨骼</ExoskeletonSuit.label>
   <!-- EN: An installed exoskeleton suit. -->
-  <ExoskeletonSuit.description>TODO</ExoskeletonSuit.description>
+  <ExoskeletonSuit.description>一个已安装的外骨骼。</ExoskeletonSuit.description>
   <!-- EN: an exoskeleton suit -->
-  <ExoskeletonSuit.labelNoun>TODO</ExoskeletonSuit.labelNoun>
+  <ExoskeletonSuit.labelNoun>外骨骼</ExoskeletonSuit.labelNoun>
   
 </LanguageData>

@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: Craft artificial bone -->
-  <MakeArtificialBone.label>TODO</MakeArtificialBone.label>
+  <MakeArtificialBone.label>制作人造骨</MakeArtificialBone.label>
   <!-- EN: Crafts an artifical bone from plasteel and steel. -->
-  <MakeArtificialBone.description>TODO</MakeArtificialBone.description>
+  <MakeArtificialBone.description>使用钢铁和玻璃钢制作人造骨。</MakeArtificialBone.description>
   <!-- EN: Crafting artifical bone. -->
-  <MakeArtificialBone.jobString>TODO</MakeArtificialBone.jobString>
+  <MakeArtificialBone.jobString>正在制作人造骨。</MakeArtificialBone.jobString>
   
   <!-- EN: craft artificial nose -->
-  <MakeArtificialNose.label>TODO</MakeArtificialNose.label>
+  <MakeArtificialNose.label>制作人造鼻</MakeArtificialNose.label>
   <!-- EN: Crafts an artificial nose from plasteel. -->
-  <MakeArtificialNose.description>TODO</MakeArtificialNose.description>
+  <MakeArtificialNose.description>使用玻璃钢制作人造鼻。</MakeArtificialNose.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeArtificialNose.jobString>TODO</MakeArtificialNose.jobString>
+  <MakeArtificialNose.jobString>正在制作假体。</MakeArtificialNose.jobString>
   
   <!-- EN: Craft cochlear implant -->
-  <MakeCochlearImplant.label>TODO</MakeCochlearImplant.label>
+  <MakeCochlearImplant.label>制作人工耳蜗</MakeCochlearImplant.label>
   <!-- EN: Crafts a cochlear implant from steel and components. -->
-  <MakeCochlearImplant.description>TODO</MakeCochlearImplant.description>
+  <MakeCochlearImplant.description>使用钢铁和零部件制作人工耳蜗。</MakeCochlearImplant.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeCochlearImplant.jobString>TODO</MakeCochlearImplant.jobString>
+  <MakeCochlearImplant.jobString>正在制作假体。</MakeCochlearImplant.jobString>
   
   <!-- EN: Craft simple prosthetic arm -->
-  <MakeSimpleProstheticArm.label>TODO</MakeSimpleProstheticArm.label>
+  <MakeSimpleProstheticArm.label>制作简易的假臂</MakeSimpleProstheticArm.label>
   <!-- EN: Crafts a simple prosthetic arm from steel and components. -->
-  <MakeSimpleProstheticArm.description>TODO</MakeSimpleProstheticArm.description>
+  <MakeSimpleProstheticArm.description>使用钢铁和零部件制作简易的假臂。</MakeSimpleProstheticArm.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeSimpleProstheticArm.jobString>TODO</MakeSimpleProstheticArm.jobString>
+  <MakeSimpleProstheticArm.jobString>正在制作假体。</MakeSimpleProstheticArm.jobString>
   
   <!-- EN: craft simple prosthetic foot -->
-  <MakeSimpleProstheticFoot.label>TODO</MakeSimpleProstheticFoot.label>
+  <MakeSimpleProstheticFoot.label>制作简易的假足</MakeSimpleProstheticFoot.label>
   <!-- EN: Crafts a simple prosthetic foot from steel and components. -->
-  <MakeSimpleProstheticFoot.description>TODO</MakeSimpleProstheticFoot.description>
+  <MakeSimpleProstheticFoot.description>使用钢铁和零部件制作简易的假足。</MakeSimpleProstheticFoot.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeSimpleProstheticFoot.jobString>TODO</MakeSimpleProstheticFoot.jobString>
+  <MakeSimpleProstheticFoot.jobString>正在制作假体。</MakeSimpleProstheticFoot.jobString>
   
   <!-- EN: craft simple prosthetic hand -->
-  <MakeSimpleProstheticHand.label>TODO</MakeSimpleProstheticHand.label>
+  <MakeSimpleProstheticHand.label>制作简易的假手</MakeSimpleProstheticHand.label>
   <!-- EN: Crafts a simple prosthetic hand from steel and components. -->
-  <MakeSimpleProstheticHand.description>TODO</MakeSimpleProstheticHand.description>
+  <MakeSimpleProstheticHand.description>使用钢铁和零部件制作简易的假手。</MakeSimpleProstheticHand.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeSimpleProstheticHand.jobString>TODO</MakeSimpleProstheticHand.jobString>
+  <MakeSimpleProstheticHand.jobString>正在制作假体。</MakeSimpleProstheticHand.jobString>
   
   <!-- EN: Craft simple prosthetic leg -->
-  <MakeSimpleProstheticLeg.label>TODO</MakeSimpleProstheticLeg.label>
+  <MakeSimpleProstheticLeg.label>制作简易的假腿</MakeSimpleProstheticLeg.label>
   <!-- EN: Crafts a simple prosthetic leg from steel and components. -->
-  <MakeSimpleProstheticLeg.description>TODO</MakeSimpleProstheticLeg.description>
+  <MakeSimpleProstheticLeg.description>使用钢铁和零部件制作简易的假腿。</MakeSimpleProstheticLeg.description>
   <!-- EN: Crafting prosthesis. -->
-  <MakeSimpleProstheticLeg.jobString>TODO</MakeSimpleProstheticLeg.jobString>
+  <MakeSimpleProstheticLeg.jobString>正在制作假体。</MakeSimpleProstheticLeg.jobString>
   
 </LanguageData>
