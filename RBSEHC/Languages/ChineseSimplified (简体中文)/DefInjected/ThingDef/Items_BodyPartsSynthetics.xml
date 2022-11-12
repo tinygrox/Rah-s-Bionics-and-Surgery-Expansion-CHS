@@ -9,7 +9,7 @@
   <!-- EN: hyporegulator -->
   <Hyporegulator.label>调谐芯片</Hyporegulator.label>
   <!-- EN: Highly advanced brain implant that attempts to enhance the mental and physical resilience of the subject. The implant is placed into the hypothalamus which increases the effectiveness of the HPA axis and the body's thermoregulation. -->
-  <Hyporegulator.description>高度先进的大脑植入物，身心全方位强化。植入物被放置在下丘脑中，这增强了HPA轴的协调和人体的温度调节能力。</Hyporegulator.description>
+  <Hyporegulator.description>高度先进的脑部植入物，能提高使用者的身心的承受能力。安装在下丘脑中，增加了HPA轴（下丘脑-垂体-肾上腺轴）的效率和温度承受范围。</Hyporegulator.description>
   
   <!-- EN: neurostimulator -->
   <Neurostimulator.label>脑刺激器</Neurostimulator.label>
