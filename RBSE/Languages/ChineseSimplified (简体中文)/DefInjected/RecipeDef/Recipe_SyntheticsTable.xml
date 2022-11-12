@@ -11,7 +11,7 @@
   <!-- EN: Create hyporegulator -->
   <MakeHyporegulator.label>制作调谐芯片</MakeHyporegulator.label>
   <!-- EN: Creates a hyporegulator. Requires an AI persona core.\n\nHighly advanced brain implant that attempts to enhance the mental and physical resilience of the subject. The implant is placed into the hypothalamus which increases the effectiveness of the HPA axis and the body's thermoregulation. -->
-  <MakeHyporegulator.description>制作调谐芯片。需要伪人格核心。\n\n高度先进的脑部植入物，能提高使用者的身心的承受能力。安装在下丘脑中，这增加了HPA轴（下丘脑-垂体-肾上腺轴）的效率和体温承受范围。</MakeHyporegulator.description>
+  <MakeHyporegulator.description>制作调谐芯片。需要伪人格核心。\n\n高度先进的脑部植入物，能提高使用者的身心的承受能力。安装在下丘脑中，增加了HPA轴（下丘脑-垂体-肾上腺轴）的效率和温度承受范围。</MakeHyporegulator.description>
   <!-- EN: Creating implant. -->
   <MakeHyporegulator.jobString>正在制作植入物。</MakeHyporegulator.jobString>
   
