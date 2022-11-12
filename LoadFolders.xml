@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+  <v1.4>
+    <li IfModActive="Rah.RBSE">RBSE</li>
+    <li IfModActive="Rah.RBSEHC">RBSEHC</li>
+  </v1.4>
+</loadFolders>
