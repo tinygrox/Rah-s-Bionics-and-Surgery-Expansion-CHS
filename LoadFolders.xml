@@ -4,4 +4,8 @@
     <li IfModActive="Rah.RBSE">RBSE</li>
     <li IfModActive="Rah.RBSEHC">RBSEHC</li>
   </v1.4>
+  <v1.5>
+    <li IfModActive="Rah.RBSE">RBSE</li>
+    <li IfModActive="Rah.RBSEHC">RBSEHC</li>
+  </v1.5>
 </loadFolders>
